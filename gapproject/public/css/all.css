@@ -1,0 +1,38 @@
+#pageLogin
+{
+    font-size: 12px;
+    font-family: verdana;
+    text-align: right;
+	margin-right : 40px;
+}
+
+#footer {
+    background-color:#336699;
+    clear:both;
+    color:#FFFFFF;
+    font-size:10px;
+    padding:5px;
+    font-family: verdana;
+    text-align: right;
+	margin-top : 40px;
+}
+
+.content_container{
+    margin:0 0 1.2em;
+    width:100%;
+}
+
+img {
+    border:0 none;
+}
+
+input.btn {
+    color: #050;
+    font-weight : bold;
+    font: 'trebuchet ms',helvetica,sans-serif;
+    background-color: #fed;
+    border: 1px solid;
+    border-color: #696 #363 #363 #696;
+    filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr='#ffffffff',EndColorStr='#ffeeddaa');
+    padding: 2px 6px;
+}
